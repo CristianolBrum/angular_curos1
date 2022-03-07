@@ -24,6 +24,11 @@
       "name": "cueca",
       "price": "15.89",
       "id": 5
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125.99,
+      "id": 6
     }
   ]
 }
